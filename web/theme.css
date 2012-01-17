@@ -1,0 +1,28 @@
+/* 
+    Document   : theme
+    Created on : Jan 17, 2012, 5:41:00 PM
+    Author     : dreamlord
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#menu{
+    background-image:url('http://img.foodnetwork.com/FOOD/2008/10/02/chocolate-cafe-o-lait_s4x3_lg.jpg');
+    width : 500px;
+}
+
+#login{
+    width: 350px;
+}
+.centered{
+font-family:verdana;
+padding:3%;
+margin:  8% 30% 8% 30%; 
+border-style:groove;
+
+border-width:5px;
+ -moz-border-radius-topleft:5ex;
+  -moz-border-radius-bottomright:5ex;
+  -webkit-border-top-left-radius:5ex;
+  -webkit-border-bottom-right-radius:5ex;
+}
